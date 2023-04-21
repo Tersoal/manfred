@@ -10,6 +10,10 @@
       "surnames": "Rebollo Sánchez",
       "title": "Fullstack Senior Developer",
       "description": "Pendiente de añadir",
+      "avatar": {
+        "alt": "profile_sm.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/21/01017a69-9ff1-4315-907e-db10b4866de0_profile_sm.jpg"
+      },
       "location": {
         "country": "España",
         "region": "País Vasco",
@@ -17,6 +21,12 @@
         "notes": "Autocompleted using Google Maps API"
       }
     },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/sergio-rebollo-s%C3%A1nchez/"
+      }
+    ],
     "interestingFacts": [
       {
         "topic": "Hago mis pinitos como traductor ",
@@ -385,6 +395,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/sergio-rebollo-s%C3%A1nchez/"
+        }
+      ]
+    },
     "preferences": {
       "preferredCompetences": [
         {
