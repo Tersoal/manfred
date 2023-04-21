@@ -49,6 +49,10 @@
   "knowledge": {
     "languages": [
       {
+        "name": "Basque",
+        "level": "Limited working proficiency"
+      },
+      {
         "name": "English",
         "level": "Professional working proficiency"
       },
