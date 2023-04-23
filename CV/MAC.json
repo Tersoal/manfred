@@ -398,6 +398,19 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Licenciatura en Bioquímica",
+        "startDate": "1997-09-01",
+        "finishDate": "2003-06-01",
+        "institution": {
+          "name": "UPV/EHU",
+          "description": ""
+        }
+      }
     ]
   },
   "careerPreferences": {
