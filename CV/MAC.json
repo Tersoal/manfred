@@ -50,6 +50,376 @@
     "jobs": [
       {
         "organization": {
+          "name": "Gloss It",
+          "image": {
+            "alt": "new_logo_glossit.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/23/cbc1b63b-ef8a-4704-aa00-ccd290e1caca_new_logo_glossit.png"
+          },
+          "URL": "https://glossit.online"
+        },
+        "roles": [
+          {
+            "name": "Fundador",
+            "startDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de la herramienta Gloss It, trabajando con Symfony en el back contra una base de datos MySQL y con ionic y angular en el front. Los pagos de la suscripción se gestionan con Stripe. Como fundador, he gestionado todo el proyecto, contratando y supervisando a un equipo multidisciplinar."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "SendinBlue",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Tersoal IT SLU",
+          "image": {
+            "alt": "TIT.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/23/446d4537-631c-4863-9bc8-7a569d39c3c2_tit.png"
+          },
+          "URL": "https://tersoalit.com"
+        },
+        "roles": [
+          {
+            "name": "Fundador y CEO",
+            "startDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Además de las labores propias de un fundador único, como contratación y supervisión del equipo de trabajo, colaboro estrechamente con los clientes para ayudarles a llevar a buen término sus proyectos. Para algunos desarrollo aplicaciones web con Symfony e Ionic, mientras que ayudo a otros con aplicaciones en WordPress y en javascript vanilla, así como integraciones con distintas APIs para el desarrollo de sus plataformas. Además, colaboro con algunos clientes como Product Owner, supervisando el proyecto desde un punto de vista global, desde el equipo de desarrollo a la toma de requerimientos de negocio."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "Docker",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "SOAP",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "VanillaJS",
+                "type": "technology"
+              },
+              {
+                "name": "Webpack",
+                "type": "technology"
+              },
+              {
+                "name": "WooCommerce",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Restuento"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2016-11-01",
+            "finishDate": "2020-04-01",
+            "challenges": [
+              {
+                "description": "Desarrollo y mantenimiento de la aplicación onbik, tanto del frontend como del backend. Desarrollo de APIs corporativas en Symfony 3 y un dashboard en angular 4 y sass, modificando Bootstrap. Además, desarrollé aplicaciones híbridas en ionic 3 y librerías propias de javascript para integraciones de onbik en otras aplicaciones. También desarrollé plugins de WordPress. Aunque empecé como desarrollador, acabé siendo el CTO y supervisando al equipo de desarrollo."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "binima digital products"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2015-11-01",
+            "finishDate": "2016-11-01",
+            "challenges": [
+              {
+                "description": "Desarrollo del backend y el frontend de aplicaciones web con Symfony, Wordpress y APIs para aplicaciones móviles. Mantenimiento de servidores LAMP."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Linux",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Kategora Investments"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2015-07-01",
+            "finishDate": "2015-11-01",
+            "challenges": [
+              {
+                "description": "Desarrollo evolutivo y correctivo del CRM de Kategora, así como su mantenimiento posterior, desarrollado en Symfony 1.4 y JQuery en el lado del cliente. Implantación del nuevo servidor y migración de todas las webs corporativas a él. Soporte tanto a nivel nacional como a los departamentos internacionales, en inglés."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CRM",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Boletus Network S.L."
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2015-03-01",
+            "finishDate": "2015-11-01",
+            "challenges": [
+              {
+                "description": "Desarrollo bajo el framework Symfony 2 tanto del backend como del frontend del CRM. Desarrollo de la API Rest que se comunica con las apps de android e IOS. Administración de las bases de datos, tanto en MySQL como en MongoDB. Configuración de Sphinx Search para la indexación de las búsquedas relacionadas. Mantenimiento del servidor donde se aloja toda la aplicación."
+              }
+            ],
+            "competences": [
+              {
+                "name": "API",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "REST",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Teknosfera"
         },
         "roles": [
