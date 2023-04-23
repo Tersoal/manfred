@@ -46,6 +46,131 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Teknosfera"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2014-05-01",
+            "finishDate": "2014-07-01",
+            "challenges": [
+              {
+                "description": "Finalización de un proyecto heredado y adaptación a SQL Server por requisito del cliente, una web corporativa realizada en Symfony 2. Modificación del frontend adaptandolo a todos los navegadores, incluyendo IE8. Análisis y desarrollo de los mantenimientos de webs de otros clientes en Codeigniter."
+              }
+            ],
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "CodeIgniter",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance"
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2014-04-01",
+            "finishDate": "2015-03-01",
+            "challenges": [
+              {
+                "description": "Creación de un tema de Wordpress completamente personalizado a partir de una maqueta html proporcionada por el cliente, incluyendo la tienda creada con Woocommerce.\n\nDesarrollo de una aplicación de gestión de pacientes bajo el framework Symfony 2 contra base de datos MySQL. Modificación y ajuste del front para los usuarios personalizando plantillas TWIG con Bootstrap 3 y JQuery."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "Twig",
+                "type": "technology"
+              },
+              {
+                "name": "WooCommerce",
+                "type": "technology"
+              },
+              {
+                "name": "WordPress",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Coritel (grupo Accenture)"
+        },
+        "roles": [
+          {
+            "name": "Senior Developer",
+            "startDate": "2004-10-01",
+            "finishDate": "2014-04-01",
+            "challenges": [
+              {
+                "description": "Empecé como desarrollador junior en un proyecto bancario y trabajé con Cobol, JCL y DB2. Con el paso del tiempo fui mejorando y ganando autonomía, por lo que participaba tanto en el análisis como en el desarrollo de las aplicaciones. Además, supervisaba a mis compañeros de equipo de menos experiencia, con el apoyo de los analistas.\n\nDespués desarrollé funciones de análisis, diseño y programación de aplicaciones Webfocus en otro proyecto del mismo cliente, tanto batch como online, todo ello de forma remota con el cliente. Asímismo, llevé a cabo evolutivos y correctivos, tanto de aplicaciones nuevas como de las que existían previamente."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Cobol",
+                "type": "technology"
+              },
+              {
+                "name": "DB2",
+                "type": "technology"
+              },
+              {
+                "name": "JCL",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
@@ -64,7 +189,37 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "Twig",
+          "name": "Axios",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WebComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MaterialUI",
           "type": "technology"
         }
       },
@@ -76,7 +231,79 @@
       },
       {
         "skill": {
+          "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Nginx",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Twig",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DB2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jetbrains",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Stripe",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
           "type": "technology"
         }
       },
@@ -88,7 +315,25 @@
       },
       {
         "skill": {
+          "name": "WooCommerce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
           "type": "technology"
         }
       },
@@ -100,7 +345,25 @@
       },
       {
         "skill": {
+          "name": "Cordova",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CodeIgniter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       },
@@ -112,7 +375,19 @@
       },
       {
         "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SOAP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PHPMyAdmin",
           "type": "technology"
         }
       },
@@ -124,13 +399,31 @@
       },
       {
         "skill": {
+          "name": "Ubuntu",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "AJAX",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ECMAScript",
           "type": "technology"
         }
       },
@@ -148,97 +441,13 @@
       },
       {
         "skill": {
+          "name": "Yarn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trello",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ionic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Axios",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "VanillaJS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DB2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ES6",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apache",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WooCommerce",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cordova",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WebComponents",
           "type": "technology"
         }
       },
@@ -250,103 +459,19 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cobol",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHPunit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Unix",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Symfony",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "YAML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jetbrains",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nginx",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHPMyAdmin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ECMAScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MaterialUI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Yarn",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
           "type": "technology"
         }
       },
@@ -358,13 +483,31 @@
       },
       {
         "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Doctrine",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Stripe",
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
           "type": "technology"
         }
       },
@@ -376,25 +519,19 @@
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "VanillaJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "YAML",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "JCL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
           "type": "technology"
         }
       }
@@ -461,6 +598,10 @@
   "asgardPreferences": {
     "mainStackTechs": [
       {
+        "name": "Symfony",
+        "type": "technology"
+      },
+      {
         "name": "MySQL",
         "type": "technology"
       },
@@ -474,10 +615,6 @@
       },
       {
         "name": "Angular2+",
-        "type": "technology"
-      },
-      {
-        "name": "Symfony",
         "type": "technology"
       }
     ]
