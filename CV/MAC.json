@@ -11,30 +11,16 @@
       "title": "Fullstack Senior Developer",
       "description": "Pendiente de añadir",
       "avatar": {
-        "alt": "profile_sm.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/21/01017a69-9ff1-4315-907e-db10b4866de0_profile_sm.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/21/01017a69-9ff1-4315-907e-db10b4866de0_profile_sm.jpg",
+        "alt": "profile_sm.jpg"
       },
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJm2A8ybdQTg0RYJ7Lc4L1BAQ)",
         "country": "España",
         "region": "País Vasco",
-        "municipality": "Baracaldo",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Baracaldo"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "github",
-        "URL": "https://github.com/Tersoal"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/Tersoald20"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/sergio-rebollo-s%C3%A1nchez/"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Hago mis pinitos como traductor ",
@@ -50,77 +36,10 @@
     "jobs": [
       {
         "organization": {
-          "name": "Gloss It",
-          "image": {
-            "alt": "new_logo_glossit.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/23/cbc1b63b-ef8a-4704-aa00-ccd290e1caca_new_logo_glossit.png"
-          },
-          "URL": "https://glossit.online"
-        },
-        "roles": [
-          {
-            "name": "Fundador",
-            "startDate": "2020-03-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de la herramienta Gloss It, trabajando con Symfony en el back contra una base de datos MySQL y con ionic y angular en el front. Los pagos de la suscripción se gestionan con Stripe. Como fundador, he gestionado todo el proyecto, contratando y supervisando a un equipo multidisciplinar."
-              }
-            ],
-            "competences": [
-              {
-                "name": "Angular2+",
-                "type": "technology"
-              },
-              {
-                "name": "Apache",
-                "type": "technology"
-              },
-              {
-                "name": "Firebase",
-                "type": "technology"
-              },
-              {
-                "name": "Ionic",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "Nginx",
-                "type": "technology"
-              },
-              {
-                "name": "Scss",
-                "type": "technology"
-              },
-              {
-                "name": "SendinBlue",
-                "type": "technology"
-              },
-              {
-                "name": "Stripe",
-                "type": "technology"
-              },
-              {
-                "name": "Symfony",
-                "type": "technology"
-              },
-              {
-                "name": "TypeScript",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Tersoal IT SLU",
           "image": {
-            "alt": "TIT.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/23/446d4537-631c-4863-9bc8-7a569d39c3c2_tit.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/23/446d4537-631c-4863-9bc8-7a569d39c3c2_tit.png",
+            "alt": "TIT.png"
           },
           "URL": "https://tersoalit.com"
         },
@@ -208,6 +127,73 @@
               },
               {
                 "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Gloss It",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/23/cbc1b63b-ef8a-4704-aa00-ccd290e1caca_new_logo_glossit.png",
+            "alt": "new_logo_glossit.png"
+          },
+          "URL": "https://glossit.online"
+        },
+        "roles": [
+          {
+            "name": "Fundador",
+            "startDate": "2020-03-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de la herramienta Gloss It, trabajando con Symfony en el back contra una base de datos MySQL y con ionic y angular en el front. Los pagos de la suscripción se gestionan con Stripe. Como fundador, he gestionado todo el proyecto, contratando y supervisando a un equipo multidisciplinar."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Apache",
+                "type": "technology"
+              },
+              {
+                "name": "Google Firebase",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "Nginx",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "SendinBlue",
+                "type": "technology"
+              },
+              {
+                "name": "Stripe",
+                "type": "technology"
+              },
+              {
+                "name": "Symfony",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -544,19 +530,49 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Basque",
-        "level": "Limited working proficiency"
-      },
-      {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Spanish",
+        "name": "ES",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EU",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
+      {
+        "skill": {
+          "name": "AJAX",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "API",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Apache",
+          "type": "technology"
+        }
+      },
       {
         "skill": {
           "name": "Axios",
@@ -565,13 +581,13 @@
       },
       {
         "skill": {
-          "name": "Symfony",
+          "name": "Bash",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Docker",
+          "name": "Bitbucket",
           "type": "technology"
         }
       },
@@ -583,13 +599,7 @@
       },
       {
         "skill": {
-          "name": "WebComponents",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MaterialUI",
+          "name": "CMS",
           "type": "technology"
         }
       },
@@ -601,7 +611,127 @@
       },
       {
         "skill": {
+          "name": "Cobol",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CodeIgniter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cordova",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "DB2",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Doctrine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "ECMAScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "ES6",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Elasticsearch",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Cloud",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Google Firebase",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JCL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JSON",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jetbrains",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MaterialUI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
           "type": "technology"
         }
       },
@@ -619,121 +749,7 @@
       },
       {
         "skill": {
-          "name": "Twig",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "DB2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Jetbrains",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Trello",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHPunit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Stripe",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AWS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Apache",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "API",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WooCommerce",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "SQLServer",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JSON",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Webpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CMS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cordova",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "CodeIgniter",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bash",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "jQuery",
+          "name": "PHPMyAdmin",
           "type": "technology"
         }
       },
@@ -745,7 +761,19 @@
       },
       {
         "skill": {
+          "name": "PHPunit",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
           "type": "technology"
         }
       },
@@ -757,43 +785,7 @@
       },
       {
         "skill": {
-          "name": "PHPMyAdmin",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ubuntu",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "AJAX",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "ECMAScript",
+          "name": "SQLServer",
           "type": "technology"
         }
       },
@@ -805,73 +797,37 @@
       },
       {
         "skill": {
+          "name": "Stripe",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Twig",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Yarn",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Google Cloud",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Firebase",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "WordPress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bitbucket",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cobol",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Doctrine",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ionic",
+          "name": "Ubuntu",
           "type": "technology"
         }
       },
@@ -883,13 +839,37 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "VanillaJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "VanillaJS",
+          "name": "WebComponents",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Webpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WooCommerce",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "WordPress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "XML",
           "type": "technology"
         }
       },
@@ -901,7 +881,13 @@
       },
       {
         "skill": {
-          "name": "JCL",
+          "name": "Yarn",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "jQuery",
           "type": "technology"
         }
       }
@@ -912,10 +898,29 @@
         "degreeAchieved": true,
         "name": "Licenciatura en Bioquímica",
         "startDate": "1997-09-01",
-        "finishDate": "2003-06-01",
         "institution": {
-          "name": "UPV/EHU",
-          "description": ""
+          "name": "UPV/EHU"
+        },
+        "finishDate": "2003-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
         }
       }
     ]
@@ -924,8 +929,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/sergio-rebollo-s%C3%A1nchez/"
+          "URL": "https://www.linkedin.com/in/sergio-rebollo-s%C3%A1nchez/",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/Tersoal",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/Tersoald20",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "s_rebollo@yahoo.es"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "652741122",
+          "countryCode": "+34"
         }
       ]
     },
@@ -963,12 +985,12 @@
         "Tech Lead"
       ]
     },
-    "status": "searchingActively"
+    "status": "notAvailable"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Symfony",
+        "name": "Angular2+",
         "type": "technology"
       },
       {
@@ -980,13 +1002,14 @@
         "type": "technology"
       },
       {
-        "name": "TypeScript",
+        "name": "Symfony",
         "type": "technology"
       },
       {
-        "name": "Angular2+",
+        "name": "TypeScript",
         "type": "technology"
       }
-    ]
+    ],
+    "desiredJobDescription": "Me encanta desarrollar software y me encanta participar en todas las partes del ciclo de desarrollo, desde la toma de requerimientos hasta la puesta en producción y tanto en el frontend como en el backend, a pesar de que algunas no se me dan demasiado bien. Me gustaría trabajar en un equipo multidisciplinar y aportar mi granito de arena para ayudar a los demás en todo lo que pueda mientras aprendo del resto de compañeros."
   }
 }
